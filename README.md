@@ -192,3 +192,4 @@ MIT
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
 this is a new edited line
+branch1
